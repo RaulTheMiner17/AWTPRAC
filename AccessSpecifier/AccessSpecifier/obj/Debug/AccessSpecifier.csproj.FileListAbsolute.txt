@@ -1,0 +1,14 @@
+C:\Users\sbmpc.student\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\AccessSpecifier.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\AccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\AccessSpecifier.exe.config
+C:\Users\sbmpc.student\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\AccessSpecifier.exe
+C:\Users\sbmpc.student\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\AccessSpecifier.pdb
+C:\Users\sbmpc.student\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\AccessSpecifier.exe
+C:\Users\sbmpc.student\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\AccessSpecifier.pdb
+C:\Users\raulf\Desktop\raul awt\AccessSpecifier\AccessSpecifier\bin\Debug\AccessSpecifier.exe.config
+C:\Users\raulf\Desktop\raul awt\AccessSpecifier\AccessSpecifier\bin\Debug\AccessSpecifier.exe
+C:\Users\raulf\Desktop\raul awt\AccessSpecifier\AccessSpecifier\bin\Debug\AccessSpecifier.pdb
+C:\Users\raulf\Desktop\raul awt\AccessSpecifier\AccessSpecifier\obj\Debug\AccessSpecifier.csproj.AssemblyReference.cache
+C:\Users\raulf\Desktop\raul awt\AccessSpecifier\AccessSpecifier\obj\Debug\AccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\raulf\Desktop\raul awt\AccessSpecifier\AccessSpecifier\obj\Debug\AccessSpecifier.exe
+C:\Users\raulf\Desktop\raul awt\AccessSpecifier\AccessSpecifier\obj\Debug\AccessSpecifier.pdb
