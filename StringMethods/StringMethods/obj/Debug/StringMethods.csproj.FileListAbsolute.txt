@@ -1,0 +1,7 @@
+C:\Users\sbmpc.student\source\repos\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\StringMethods\StringMethods\bin\Debug\StringMethods.exe.config
+C:\Users\sbmpc.student\source\repos\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\sbmpc.student\source\repos\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\sbmpc.student\source\repos\StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\sbmpc.student\source\repos\StringMethods\StringMethods\obj\Debug\StringMethods.pdb
