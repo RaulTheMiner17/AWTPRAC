@@ -1,0 +1,14 @@
+C:\Users\sbmpc.student\source\repos\Inher\Inher\obj\Debug\Inher.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\Inher\Inher\obj\Debug\Inher.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\Inher\Inher\bin\Debug\Inher.exe.config
+C:\Users\sbmpc.student\source\repos\Inher\Inher\bin\Debug\Inher.exe
+C:\Users\sbmpc.student\source\repos\Inher\Inher\bin\Debug\Inher.pdb
+C:\Users\sbmpc.student\source\repos\Inher\Inher\obj\Debug\Inher.exe
+C:\Users\sbmpc.student\source\repos\Inher\Inher\obj\Debug\Inher.pdb
+C:\Users\raulf\Desktop\raul awt\Inher\Inher\bin\Debug\Inher.exe.config
+C:\Users\raulf\Desktop\raul awt\Inher\Inher\bin\Debug\Inher.exe
+C:\Users\raulf\Desktop\raul awt\Inher\Inher\bin\Debug\Inher.pdb
+C:\Users\raulf\Desktop\raul awt\Inher\Inher\obj\Debug\Inher.csproj.AssemblyReference.cache
+C:\Users\raulf\Desktop\raul awt\Inher\Inher\obj\Debug\Inher.csproj.CoreCompileInputs.cache
+C:\Users\raulf\Desktop\raul awt\Inher\Inher\obj\Debug\Inher.exe
+C:\Users\raulf\Desktop\raul awt\Inher\Inher\obj\Debug\Inher.pdb
