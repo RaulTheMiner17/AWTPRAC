@@ -1,0 +1,11 @@
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\sbmpc.student\source\repos\MyLibrary\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
