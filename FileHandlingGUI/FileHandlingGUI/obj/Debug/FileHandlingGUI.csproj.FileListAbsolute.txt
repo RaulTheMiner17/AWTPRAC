@@ -1,0 +1,10 @@
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\bin\Debug\FileHandlingGUI.exe.config
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\bin\Debug\FileHandlingGUI.exe
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\bin\Debug\FileHandlingGUI.pdb
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\obj\Debug\FileHandlingGUI.csproj.AssemblyReference.cache
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\obj\Debug\FileHandlingGUI.Form1.resources
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\obj\Debug\FileHandlingGUI.Properties.Resources.resources
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\obj\Debug\FileHandlingGUI.csproj.GenerateResource.cache
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\obj\Debug\FileHandlingGUI.csproj.CoreCompileInputs.cache
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\obj\Debug\FileHandlingGUI.exe
+C:\Users\sbmpc.student\source\repos\FileHandlingGUI\FileHandlingGUI\obj\Debug\FileHandlingGUI.pdb
